@@ -5,4 +5,4 @@
 
 更新到2016-5-22
 
-右键另存 [discovery_sorted_by_content.txt](/blob/master/discovery_sorted_by_content.txt?raw=true)
+右键另存 [discovery_sorted_by_content.txt](/discovery_sorted_by_content.txt?raw=true)
