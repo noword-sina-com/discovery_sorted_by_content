@@ -3,6 +3,6 @@
 
 现在按照内容排序，找的自己感兴趣的系列，直接把整块复制下来，粘贴到下载软件中即可。
 
-更新到2016-6-12
+更新到2016-6-19
 
 右键另存 [discovery_sorted_by_content.txt](/discovery_sorted_by_content.txt?raw=true)
